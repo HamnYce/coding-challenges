@@ -1,5 +1,7 @@
 # Dominos
 
+## Work By @[M7mdisk](https://github.com/M7mdisk/)
+
 1. use `create.py` to generate a folder for your kata.
 ## usage:
   `python create.py {slug/url} {python/java/cpp}`
